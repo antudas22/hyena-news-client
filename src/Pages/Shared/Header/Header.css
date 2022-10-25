@@ -1,0 +1,9 @@
+.container .logo{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+}
+.container .logo:hover{
+    color: rgb(228, 32, 32);
+}
